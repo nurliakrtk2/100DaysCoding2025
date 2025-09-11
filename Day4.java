@@ -1,6 +1,6 @@
 package day4.java;
 
-pucblic class main {
+pucblic class Main {
 
 pucblic static void main(String[] args) {
 
