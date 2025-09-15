@@ -15,6 +15,7 @@ public class main {
       System.out.println("informatika" + informatika);
       System.out.println("coding" + coding);
 
+      //penjelasan mengenai tipe data string
       //*String : untuk menyimpan teks atau sekumpulan karakter 
       //*String : di tulis untuk tanda petik ganda (") 
 
