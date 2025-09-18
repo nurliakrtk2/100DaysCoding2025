@@ -36,6 +36,6 @@ public static void main(String[] args) {
   System.out.println("pernyataan : ");
   pernyataan = input.nextBoolean(); 
 
-  //*Scanner adalah kelas 
+  //*Scanner adalah kelas (class) di java yang digunakan untuk membaca input dari keyboard seperti teks, angka, karakter dll.
   
   
