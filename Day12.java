@@ -3,7 +3,7 @@ package day12.java;
 public class main {
   public static void main(String[] args) {
 
-  //Deklarasi 
+//Deklarasi 
   String nama, nim, alamat;
   char jenisKelamin;
   byte jumlahSaudara;
@@ -12,6 +12,7 @@ public class main {
   float nilaiRaport;
   double lebar;
   boolean sudahLulus;
+  long noHp;
 
   //Inisialisasi 
   nama = "Lia";
@@ -25,6 +26,8 @@ public class main {
   noHp = 83166030775L;
   nilaiRaport = 89.5f;
   lebar = 15.5;
+  sudahLulus = true;
+  jumlahSaudara = 4;
 
   //output 
   System.out.println("Nama : "+ nama);
@@ -32,14 +35,14 @@ public class main {
   System.out.println("Jenis kelamin : "+ jenisKelamin);
   System.out.println("Jumlah saudara : "+ jumlahSaudara);
   System.out.println("Tahun Lahir : "+ tahunLahir);
-  System.out.println("Umur : "+ umur)
+  System.out.println("Umur : "+ umur);
   System.out.println("Tb : "+ tb);
   System.out.println("Bb : "+ bb);
   System.out.println("No Hp : "+ noHp);
-  System.out.peintln("Nilai Raport : "+ nilaiRaport);
+  System.out.println("Nilai Raport : "+ nilaiRaport);
   System.out.println("Lebar : "+ lebar);
-  System.out.println("Sudah Lulus : "+ sudahLulus); 
-
+  System.out.println("Sudah Lulus : "+ sudahLulus);
+    
   /*
   //tipe data yang saya gunakan dalam membuat biodata ini :
   //String, char, byte, short, int, long, float, double, dan boolean (true/false)
