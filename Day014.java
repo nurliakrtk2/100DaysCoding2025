@@ -8,7 +8,7 @@ public class main {
         String stringBoolean = "true";
       
       
-      //  String ke int
+        //  String ke int
         int angka = Integer.parseInt(stringAngka);
 
         //  String ke double
