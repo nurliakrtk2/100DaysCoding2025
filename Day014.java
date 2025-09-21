@@ -1,4 +1,4 @@
-package Day14;
+package Day14.java;
 
 public class main {
     public static void main(String[] args) {
@@ -8,8 +8,6 @@ public class main {
         String stringBoolean = "true";
       
 
-        
-      
       
       //  String ke int
         int angka = Integer.parseInt(stringAngka);
