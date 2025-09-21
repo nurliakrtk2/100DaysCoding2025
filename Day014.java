@@ -4,10 +4,9 @@ public class main {
     public static void main(String[] args) {
        
         String stringAngka = "123";
-        String stringDesimal = "1,23";
+        String stringDesimal = "3.14";
         String stringBoolean = "true";
       
-
       
       //  String ke int
         int angka = Integer.parseInt(stringAngka);
@@ -23,14 +22,13 @@ public class main {
 //untuk byte gunakan byte.parseByte() 
 //untuk short gunakan short.parseShort() 
 //untuk long gunkan long.parseLong() 
-//untuk char gunakan chart.parseCharAt(0) 
-
-
-
-
+//untuk char gunakan chart.parseCharAt(0)
+        
       
         System.out.println("String ke int: " + angka);
         System.out.println("String ke double: " + desimal);
         System.out.println("String ke boolean: " + nilaiBoolean);
+
+        }
+    
     }
-                           }
